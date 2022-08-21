@@ -21,6 +21,7 @@
 		8ADCE7C428B28946007EDB90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8ADCE7C728B28946007EDB90 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8ADCE7CE28B28EC1007EDB90 /* Week1SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Week1SwiftUIView.swift; sourceTree = "<group>"; };
+		8ADCE7D228B2AC52007EDB90 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		8ADCE7B428B28945007EDB90 = {
 			isa = PBXGroup;
 			children = (
+				8ADCE7D228B2AC52007EDB90 /* README.md */,
 				8ADCE7BF28B28945007EDB90 /* XcodeDemoGitHub */,
 				8ADCE7BE28B28945007EDB90 /* Products */,
 			);
