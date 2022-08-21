@@ -11,6 +11,7 @@
 		8ADCE7C328B28945007EDB90 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ADCE7C228B28945007EDB90 /* ContentView.swift */; };
 		8ADCE7C528B28946007EDB90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8ADCE7C428B28946007EDB90 /* Assets.xcassets */; };
 		8ADCE7C828B28946007EDB90 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8ADCE7C728B28946007EDB90 /* Preview Assets.xcassets */; };
+		8ADCE7CF28B28EC1007EDB90 /* Week1SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ADCE7CE28B28EC1007EDB90 /* Week1SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,8 @@
 		8ADCE7C228B28945007EDB90 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8ADCE7C428B28946007EDB90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8ADCE7C728B28946007EDB90 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8ADCE7CE28B28EC1007EDB90 /* Week1SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Week1SwiftUIView.swift; sourceTree = "<group>"; };
+		8ADCE7D228B2AC52007EDB90 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +38,7 @@
 		8ADCE7B428B28945007EDB90 = {
 			isa = PBXGroup;
 			children = (
+				8ADCE7D228B2AC52007EDB90 /* README.md */,
 				8ADCE7BF28B28945007EDB90 /* XcodeDemoGitHub */,
 				8ADCE7BE28B28945007EDB90 /* Products */,
 			);
@@ -52,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				8ADCE7C028B28945007EDB90 /* XcodeDemoGitHubApp.swift */,
+				8ADCE7CE28B28EC1007EDB90 /* Week1SwiftUIView.swift */,
 				8ADCE7C228B28945007EDB90 /* ContentView.swift */,
 				8ADCE7C428B28946007EDB90 /* Assets.xcassets */,
 				8ADCE7C628B28946007EDB90 /* Preview Content */,
@@ -139,6 +144,7 @@
 			files = (
 				8ADCE7C328B28945007EDB90 /* ContentView.swift in Sources */,
 				8ADCE7C128B28945007EDB90 /* XcodeDemoGitHubApp.swift in Sources */,
+				8ADCE7CF28B28EC1007EDB90 /* Week1SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
